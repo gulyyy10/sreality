@@ -1,0 +1,1 @@
+// Sem přijde kompletní komponenta (budeš ji moci vložit později).
